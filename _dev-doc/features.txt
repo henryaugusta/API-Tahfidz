@@ -1,0 +1,15 @@
+
+
+SISWA
+
+LOGIN----------------------------#
+UPLOAD SUBMISSION----------------#
+LIHAT SUBMISSION-----------------
+UPDATE PROFILE-------------------
+MOTIVASI-------------------------
+
+GURU 
+LOGIN----------------------------#
+CEK SUBMISSION-------------------#
+LIHAT KELOMPOK-------------------?
+

@@ -1,0 +1,11 @@
+filezilla
+
+host sftp://202.157.177.52
+user root
+password TNr42wLYqw3I9g71Xe
+port 8288
+
+phpmyadmin
+http://202.157.177.52/phpmyadmin
+user root
+pass TNr42wLYqw3I9g71Xe

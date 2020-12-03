@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
+table th:first-child {
+  border-radius: 10px 0 0 10px;
+}
+
+table th:last-child {
+  border-radius: 0 10px 10px 0;
+}
+
+table {
+  color: black;
+}
+
+th {
+  background-color: #28df99;
+  color: white;
+}
